@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "form-data": "^4.0.0",
+    "FormData": "^0.10.1",
+    "got": "^14.2.1",
+    "h3-formidable": "^1.0.0"
+  },
+  "devDependencies": {
+    "nuxt": "^3.8.0"
+  }
+}
